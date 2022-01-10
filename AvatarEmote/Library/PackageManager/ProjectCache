@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637773921032368590
+      ticks: 637773930532709320
     m_Hash: 980436348
   m_LockFileStatus:
     m_FilePath: D:/XREAL/AvatarEmote/AvatarEmote/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637773921273189166
+      ticks: 637773930692139377
     m_Hash: 1810897712
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
