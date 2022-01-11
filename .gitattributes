@@ -1,0 +1,7 @@
+Library/Artifacts/cc/cc6a6fsf3085c5bb793fc63bdb08c742
+ filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/cc/cc6a6f2fe085c5bb793fc63bdb08c742 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/cc/cc6a6f2fe085c5bb793fc63bdb08c742 filter=lfs diff=lfs merge=lfs -text
+/AvatarEmote/Library/Artifacts/cc/cc6a6f2fe085c5bb793fc63bdb08c742 filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+AvatarEmote/Library/Artifacts/b2/b29460f38f75c161addcaedcea2bed41 filter=lfs diff=lfs merge=lfs -text
